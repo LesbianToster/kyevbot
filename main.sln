@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TelegramBot", "TelegramBot\TelegramBot.pyproj", "{643901A8-E5F5-4308-8580-B13E3FC5A5AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{643901A8-E5F5-4308-8580-B13E3FC5A5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643901A8-E5F5-4308-8580-B13E3FC5A5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {783CF530-F486-43AE-B6E5-E14D81148E6F}
+	EndGlobalSection
+EndGlobal
